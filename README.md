@@ -1,6 +1,6 @@
 # Deep Learning
 
-## Project: Predicting Bike Sharing Patterns
+## Predicting Bike Sharing Patterns
 
 ### Source 
 
